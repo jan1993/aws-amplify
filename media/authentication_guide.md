@@ -94,7 +94,7 @@ Now import the file and pass it as configuration to the Amplify library:
 import Amplify from 'aws-amplify';
 import awsmobile from './YOUR_PATH_TO_EXPORTS/aws-exports'
 
-Amplify.configure(awsmobile});
+Amplify.configure(awsmobile);
 ```
 
 ## Integration
